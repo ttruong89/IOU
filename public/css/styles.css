@@ -1,0 +1,10 @@
+.input-group,
+.input-group-sm {
+	width: 100%;
+}
+
+.input-group-addon {
+	width: 90px;
+	text-align: left;
+}
+
