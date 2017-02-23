@@ -8,3 +8,45 @@
 	text-align: left;
 }
 
+#iou{
+	background-color: #ec9435;
+	width:300px;
+	height: 100px;
+	border-color: #ec9435;
+	float:right;
+	position: relative;
+}
+
+#uom{
+	background-color: #74aaba;
+	width:300px;
+	height: 100px;
+	border-color: #74aaba;
+	float:left;
+	position: relative;
+}
+
+
+/*:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
+
+	/* Rules for screen width at 980 px or lower*/
+
+	@media screen and (min-width:768px, max-width: 980px) {}
+	
+	@media screen and (max-width: 768px) {}
+	
+	@media screen and (max-width: 640px) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
